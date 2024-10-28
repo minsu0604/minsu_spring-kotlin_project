@@ -1,0 +1,31 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.MyApplication" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+         <item name="colorPrimary">@color/orange</item>
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+
+    </style>
+    <style name="OrangeTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Primary 색상 (툴바나 주요 버튼에 적용) -->
+        <item name="colorPrimary">@color/orange</item>
+
+        <!-- 상태 표시줄 색상 -->
+        <item name="colorPrimaryDark">@color/white</item>
+
+        <!-- 액센트 색상 (FAB, 스위치 등 강조 요소에 적용) -->
+<!--        <item name="colorAccent">@color/colorAccent</item>-->
+
+        <!-- 툴바 텍스트 색상 -->
+        <item name="android:textColorPrimary">@color/black</item>
+
+        <!-- 기본 배경 색상 -->
+        <item name="android:windowBackground">@android:color/white</item>
+
+        <!-- 상태 표시줄 아이콘을 어둡게 설정 (밝은 상태 표시줄에서 사용) -->
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+
+    <style name="Theme.MyApplication" parent="Base.Theme.MyApplication" />
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="category_array">
+        <item>전체</item>
+        <item>캐릭터 · 굿즈</item>
+        <item>홈 · 리빙</item>
+        <item>테크 · 가전</item>
+        <item>반려동물</item>
+        <item>향수 · 뷰티</item>
+        <item>의류</item>
+        <item>잡화</item>
+        <item>음악</item>
+        <item>푸드</item>
+        <item>주얼리</item>
+    </string-array>
+</resources>

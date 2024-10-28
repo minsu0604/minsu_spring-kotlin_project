@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "1008589494290",
+    "firebase_url": "https://fullstack405-default-rtdb.firebaseio.com",
+    "project_id": "fullstack405",
+    "storage_bucket": "fullstack405.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1008589494290:android:740b7c5d2e6470f9c260cb",
+        "android_client_info": {
+          "package_name": "com.example.app12_fire"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNB6e39ecxm22TG2YXoOD9LOhnAdll4ac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1008589494290:android:22806042353ec3b4c260cb",
+        "android_client_info": {
+          "package_name": "com.example.chat_test_android"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNB6e39ecxm22TG2YXoOD9LOhnAdll4ac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1008589494290:android:83829375b5ca577cc260cb",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNB6e39ecxm22TG2YXoOD9LOhnAdll4ac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
