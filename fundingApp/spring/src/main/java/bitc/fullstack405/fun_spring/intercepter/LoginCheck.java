@@ -15,7 +15,7 @@ public class LoginCheck implements HandlerInterceptor {
         String userId = (String)session.getAttribute("userId");
 
         if (userId == null || userId.equals("")) {
-            res.sendRedirect("/login");
+            res.sendRedirect("login");
 
             return false;
         }
