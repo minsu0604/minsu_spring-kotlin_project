@@ -43,9 +43,5 @@ DB 데이터 기입 및 관리
 ![js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![js](https://img.shields.io/badge/Sourcetree-0052CC?style=for-the-badge&logo=Sourcetree&logoColor=white)
 
-<h1>🎢 레포지토리 기술 분포도</h1>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minsu0604&layout=compact)
-
 <h2>🎬 시연 영상</h2>
 <a href="https://youtu.be/5tcRJ-qJY5I">유튜브 링크</a>
